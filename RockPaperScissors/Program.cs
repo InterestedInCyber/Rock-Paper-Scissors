@@ -4,7 +4,7 @@ namespace RockPaperScissors
 {
     sealed class Program
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
             bool playing = true;
 
